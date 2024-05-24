@@ -1,0 +1,30 @@
+<TenantList>
+    <Tenant>
+        <Name>Daniil Popov</Name>
+        <AptNumber>9</AptNumber>
+    </Tenant>
+    <Tenant>
+        <Name>Elena</Name>
+        <AptNumber>1</AptNumber>
+    </Tenant>
+    <Tenant>
+        <Name>Filip Hazarov</Name>
+        <AptNumber>391</AptNumber>
+    </Tenant>
+    <Tenant>
+        <Name>Kirill Smorodin</Name>
+        <AptNumber>310</AptNumber>
+    </Tenant>
+    <Tenant>
+        <Name>Maks Ivanov</Name>
+        <AptNumber>51</AptNumber>
+    </Tenant>
+    <Tenant>
+        <Name>Oleg Lavrov</Name>
+        <AptNumber>79</AptNumber>
+    </Tenant>
+    <Tenant>
+        <Name>Olga Olegova</Name>
+        <AptNumber>25</AptNumber>
+    </Tenant>
+</TenantList>

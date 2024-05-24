@@ -1,0 +1,62 @@
+<RentRecord>
+    <RentRow>
+        <AptNo>9</AptNo>
+        <Rent month="1">3200</Rent>
+        <Rent month="2">4300</Rent>
+        <Rent month="3">4200</Rent>
+        <Rent month="4">4300</Rent>
+        <Rent month="5">5300</Rent>
+        <Rent month="6">0</Rent>
+        <Rent month="7">2000</Rent>
+        <Rent month="8">0</Rent>
+        <Rent month="9">0</Rent>
+        <Rent month="10">0</Rent>
+        <Rent month="11">0</Rent>
+        <Rent month="12">0</Rent>
+    </RentRow>
+    <RentRow>
+        <AptNo>51</AptNo>
+        <Rent month="1">0</Rent>
+        <Rent month="2">0</Rent>
+        <Rent month="3">0</Rent>
+        <Rent month="4">0</Rent>
+        <Rent month="5">0</Rent>
+        <Rent month="6">0</Rent>
+        <Rent month="7">5200</Rent>
+        <Rent month="8">8100</Rent>
+        <Rent month="9">3890</Rent>
+        <Rent month="10">3400</Rent>
+        <Rent month="11">0</Rent>
+        <Rent month="12">0</Rent>
+    </RentRow>
+    <RentRow>
+        <AptNo>79</AptNo>
+        <Rent month="1">0</Rent>
+        <Rent month="2">0</Rent>
+        <Rent month="3">0</Rent>
+        <Rent month="4">0</Rent>
+        <Rent month="5">0</Rent>
+        <Rent month="6">0</Rent>
+        <Rent month="7">0</Rent>
+        <Rent month="8">0</Rent>
+        <Rent month="9">5400</Rent>
+        <Rent month="10">4100</Rent>
+        <Rent month="11">3900</Rent>
+        <Rent month="12">4000</Rent>
+    </RentRow>
+    <RentRow>
+        <AptNo>310</AptNo>
+        <Rent month="1">2000</Rent>
+        <Rent month="2">4200</Rent>
+        <Rent month="3">3700</Rent>
+        <Rent month="4">4100</Rent>
+        <Rent month="5">5100</Rent>
+        <Rent month="6">5100</Rent>
+        <Rent month="7">4000</Rent>
+        <Rent month="8">0</Rent>
+        <Rent month="9">0</Rent>
+        <Rent month="10">0</Rent>
+        <Rent month="11">3790</Rent>
+        <Rent month="12">2900</Rent>
+    </RentRow>
+</RentRecord>

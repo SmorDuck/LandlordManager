@@ -1,0 +1,9 @@
+<ExpenseRecord>
+    <Expense>
+        <Month>10</Month>
+        <Day>27</Day>
+        <Category>Remont</Category>
+        <Payee>Electro city</Payee>
+        <Amount>4100</Amount>
+    </Expense>
+</ExpenseRecord>
